@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shutipon Kulsirisongput</h1>
+<h1 align="center">Hi 👋, I'm Snowkks</h1>
 <h3 align="center">A passionate college student</h3>
 
 - 🌱 I’m currently learning **C++, OpenGL, Cyber-security**
