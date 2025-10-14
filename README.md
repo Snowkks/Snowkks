@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **C++, OpenGL, Cyber-security**
 - 💻 I'm currently working on **Personal-game**
-- 📫 How to reach me **snowks050765@gmail.com*
+- 📫 How to reach me **snowks050765@gmail.com**
 
 
