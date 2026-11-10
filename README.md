@@ -19,39 +19,6 @@ My interests include network security, Linux administration, systems programming
 
 **Tools:** Wireshark, Cisco Packet Tracer, Neovim, Grafana, Prometheus
 
-## Featured Projects
-
-### [Simple Packet Sniffer](https://github.com/Snowkks/Simple-Packet-Sniffer-C-)
-A packet-sniffing project developed in C to explore network traffic inspection and low-level networking concepts.
-
-`C` `Networking` `Packet Analysis`
-
-### [Simple Shell](https://github.com/Snowkks/My-Simple-Shell)
-A basic Unix-style shell implemented in C, exploring command execution and operating system concepts.
-
-`C` `Linux` `Systems Programming`
-
-### [Packet Tracer Projects](https://github.com/Snowkks/My-PacketTracer-Projects)
-A collection of network design and configuration exercises using Cisco Packet Tracer.
-
-`Networking` `Cisco` `Network Configuration`
-
-## Current Projects
-
-**Labyrinth — Procedural Cybersecurity Lab** • planning
-
-Developing a procedural network and cybersecurity playground designed to generate isolated network environments for experimentation and security training.
-
-Exploring Python, container-based networking, topology generation, and terminal-based interfaces.
-
-**Personal Homelab** • active
-
-Maintaining a Debian-based homelab to experiment with self-hosted services, containerization, private networking, and infrastructure monitoring.
-
-**Raspberry Pi Cyberdeck** • active
-
-Building a portable, Linux-based computing environment focused on terminal workflows, offline resources, and networking experiments.
-
 ## Currently Exploring
 
 - Network security and defensive security engineering
